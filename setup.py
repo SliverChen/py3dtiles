@@ -12,7 +12,7 @@ requirements = (
     'triangle',
     'psycopg2-binary',
     'liblas',
-    'laspy',
+    'laspy==1.7.0',
     'numba',
     'pyproj',
     'psutil',
